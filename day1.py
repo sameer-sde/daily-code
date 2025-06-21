@@ -2,7 +2,7 @@
 # Author: Sameer Ahmed
 
 def greet():
-    print("Hello, GitHub! Today I start my streak journey. 🚀")
+    print("Hello, GitHub! Today I start my streak journey.")
 
 greet()
 
